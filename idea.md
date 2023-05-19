@@ -236,5 +236,9 @@ nest g co -p admin episodes
 12. 前端添加 项目环境变量 
     
     .env 配置文件
+
+13. 时长更新 
     
-    
+    ![](C:\Users\26086\AppData\Roaming\marktext\images\2023-05-19-23-42-45-image.png)
+
+![](C:\Users\26086\AppData\Roaming\marktext\images\2023-05-19-23-43-15-image.png)
